@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\bin\Debug\netcoreapp3.1\EjemplosCap4.exe
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\bin\Debug\netcoreapp3.1\EjemplosCap4.deps.json
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\bin\Debug\netcoreapp3.1\EjemplosCap4.runtimeconfig.json
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\bin\Debug\netcoreapp3.1\EjemplosCap4.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\bin\Debug\netcoreapp3.1\EjemplosCap4.dll
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\bin\Debug\netcoreapp3.1\EjemplosCap4.pdb
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.dll
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.pdb
+C:\Users\UserGPC\source\repos\EjemplosCap4\EjemplosCap4\obj\Debug\netcoreapp3.1\EjemplosCap4.genruntimeconfig.cache

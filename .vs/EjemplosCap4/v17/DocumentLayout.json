@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig2\\libropruebacalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig2\\libropruebacalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig2\\librocalificaciones1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig2\\librocalificaciones1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig4\\pruebalibrocalificaciones3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig4\\pruebalibrocalificaciones3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig3\\pruebalibrocalificaciones2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig3\\pruebalibrocalificaciones2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig1\\pruebalibrocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig1\\pruebalibrocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig4\\librocalificaciones3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig4\\librocalificaciones3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig3\\librocalificaciones2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig3\\librocalificaciones2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|c:\\users\\usergpc\\source\\repos\\ejemploscap4\\ejemploscap4\\figuras\\fig1\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7D858B-75F2-43B4-A403-72C7F11A5C70}|EjemplosCap4\\EjemplosCap4.csproj|solutionrelative:ejemploscap4\\figuras\\fig1\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaLibroCalificaciones3.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig4\\PruebaLibroCalificaciones3.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig4\\PruebaLibroCalificaciones3.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig4\\PruebaLibroCalificaciones3.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig4\\PruebaLibroCalificaciones3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:47:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig5\\Cuenta.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig5\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig5\\Cuenta.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig5\\Cuenta.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:01:00.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Program.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Program.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Program.cs",
+              "RelativeToolTip": "EjemplosCap4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:17:51.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PruebaCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig5\\PruebaCuenta.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig5\\PruebaCuenta.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig5\\PruebaCuenta.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig5\\PruebaCuenta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:08:54.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PruebaLibroCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig1\\PruebaLibroCalificaciones.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig1\\PruebaLibroCalificaciones.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig1\\PruebaLibroCalificaciones.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig1\\PruebaLibroCalificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:28:05.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroCalificaciones1.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig2\\LibroCalificaciones1.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig2\\LibroCalificaciones1.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig2\\LibroCalificaciones1.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig2\\LibroCalificaciones1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:42:59.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroPruebaCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig2\\LibroPruebaCalificaciones.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig2\\LibroPruebaCalificaciones.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig2\\LibroPruebaCalificaciones.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig2\\LibroPruebaCalificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:47:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibroCalificaciones3.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig4\\LibroCalificaciones3.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig4\\LibroCalificaciones3.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig4\\LibroCalificaciones3.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig4\\LibroCalificaciones3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:38:13.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PruebaLibroCalificaciones2.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig3\\PruebaLibroCalificaciones2.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig3\\PruebaLibroCalificaciones2.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig3\\PruebaLibroCalificaciones2.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig3\\PruebaLibroCalificaciones2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:16:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibroCalificaciones2.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig3\\LibroCalificaciones2.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig3\\LibroCalificaciones2.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig3\\LibroCalificaciones2.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig3\\LibroCalificaciones2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:04:52.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibroCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig1\\LibroCalificaciones.cs",
+              "RelativeDocumentMoniker": "EjemplosCap4\\Figuras\\Fig1\\LibroCalificaciones.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\EjemplosCap4\\EjemplosCap4\\Figuras\\Fig1\\LibroCalificaciones.cs",
+              "RelativeToolTip": "EjemplosCap4\\Figuras\\Fig1\\LibroCalificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:24:33.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
